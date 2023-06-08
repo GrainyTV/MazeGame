@@ -33,6 +33,7 @@ int main(int argc, char **argv)
 	SDL_Window *window = SDL_CreateWindow("A_MAZE_ING GAME", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, width, height, SDL_WINDOW_OPENGL);
 	SDL_Renderer *renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC);
 	SDL_SetRenderDrawBlendMode(renderer, SDL_BLENDMODE_BLEND);
+	SDL_SetHint(SDL_HINT_RENDER_SCALE_QUALITY, "1");
 	Mix_OpenAudio(44100,MIX_DEFAULT_FORMAT,2,2048);
 
 	//Texturak betoltese
