@@ -11,14 +11,14 @@
 ## The game
 <p align="justify">The game itself is not that complicated. The player controls the red square located at the bottom left corner and the aim of the game is to reach the green square on the opposite side. You can either you WASD or the arrow keys. When you are in-game, you can use the ESC key to open the menu and select a few options. The game let's you choose from 3 different difficulty levels.</p>
 
-<p align="center"><b>Easy</b></p>
-<p align="center"><img alt="easy" src="MazeGame/easy.png" width="25%" height="25%"/></p>
+### Easy
+<img alt="easy" src="MazeGame/easy.png" width="40%" height="40%"/>
 
-<p align="center"><b>Medium</b></p>
-<p align="center"><img alt="medium" src="MazeGame/medium.png" width="25%" height="25%"/></p>
+### Medium
+<img alt="medium" src="MazeGame/medium.png" width="40%" height="40%"/>
 
-<p align="center"><b>Hard</b></p>
-<p align="center"><img alt="hard" src="MazeGame/hard.png" width="25%" height="25%"/></p>
+### Hard
+<img alt="hard" src="MazeGame/hard.png" width="40%" height="40%"/>
 
 ## Results
 <p align="justify">After you finish a run, you should see a new file in your game folder called: "results.txt". You can find entries about all the completed runs' in it. It states when you played, what was the difficulty level and the time it took for you to complete it similarly to this provided example.</p>
