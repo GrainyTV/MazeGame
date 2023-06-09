@@ -10,6 +10,7 @@
 
 ## The game
 <p align="justify">The game itself is not that complicated. The player controls the red square located at the bottom left corner and the aim of the game is to reach the green square on the opposite side. You can either you WASD or the arrow keys. When you are in-game, you can use the ESC key to open the menu and select a few options. The game let's you choose from 3 different difficulty levels.</p>
+
 ### Easy
 <img alt="easy" src="MazeGame/easy.png" width="50%" height="50%"/>
 ### Medium
