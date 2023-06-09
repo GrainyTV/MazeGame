@@ -19,3 +19,13 @@
 
 <p align="center"><b>Hard</b></p>
 <p align="center"><img alt="hard" src="MazeGame/hard.png" width="50%" height="50%"/></p>
+
+## Results
+<p align="justify">After you finish a run, you should see a new file in your game folder called: "results.txt". You can find entries about all the completed runs' in it. It states when you played, what was the difficulty level and the time it took for you to complete it similarly to this provided example.
+```
+[2023.06.07 15:34] [ EASY ] [00:19]
+[2023.06.07 15:43] [ EASY ] [00:41]
+[2023.06.07 15:53] [ EASY ] [00:20]
+[2023.06.07 16:04] [MEDIUM] [03:11]
+[2023.06.07 19:13] [ HARD ] [07:52]
+```
